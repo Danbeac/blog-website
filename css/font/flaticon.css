@@ -27,7 +27,7 @@
         font-size: 30px;
 font-style: normal;
 margin-left: 20px;
-color: #9e8f76;
+color: var(--secundary-color);
 }
 
 .flaticon-001-facebook:before { content: "\f100"; }
