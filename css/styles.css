@@ -154,6 +154,7 @@ header .profile-link a{
 
 .blogs-posts-container {
     padding: 0 50px 40px;
+    background-color: white;
 }
 
 .blogs-posts-container h3 {
@@ -163,7 +164,7 @@ header .profile-link a{
 }
 
 .blogs-button {
-    border: 1px solid #47cfac;
+    border: 1px solid #07419f;
     padding: 10px 15px;
     font-size: 12px;
 }
